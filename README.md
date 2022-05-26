@@ -1,16 +1,18 @@
-### Hi there 👋
+<img alt="Ilustration of me" src="undraw_developer_activity_bv83.svg" height="230px" align="right">
 
-<!--
-**fredidev/fredidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá eu sou João Pedro Herbe Frediani, vulgo Fredi! 👋🏻
 
-Here are some ideas to get you started:
+☎ | Contato: pedrofredi.contato@gmail.com <br>
+🧾 | Mais sobre mim: https://linktr.ee/fredidev <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 Estudando as Linguagens
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Estudando as Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔧 IDE e editores de texto
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+
+
