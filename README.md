@@ -1,5 +1,3 @@
-<img alt="Ilustration of me" src="undraw_developer_activity_bv83.svg" height="230px" align="right">
-
 ### Olá eu sou João Pedro Herbe Frediani, vulgo Fredi! 👋🏻
 
 ☎ | Contato: pedrofredi.contato@gmail.com <br>
