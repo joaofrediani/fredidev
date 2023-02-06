@@ -1,7 +1,7 @@
 ### Olá eu sou João Pedro Herbe Frediani, vulgo Fredi! 👋🏻
 
 ☎ | Contato: pedrofredi.contato@gmail.com <br>
-🧾 | Mais sobre mim: https://linktr.ee/fredidev <br>
+🧾 | Mais sobre mim: pedrofredi.contato@gmail.com <br>
 
 ### 📋 Estudando as Linguagens
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
